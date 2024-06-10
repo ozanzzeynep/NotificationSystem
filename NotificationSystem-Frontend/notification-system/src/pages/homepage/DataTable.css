@@ -1,0 +1,17 @@
+.read-false {
+  font-weight: bold;
+  color: black;
+  font-size: medium;
+}
+
+.read-true {
+  font-weight: normal;
+  color: inherit;
+  font-size: inherit;
+}
+.custom-header {
+  color: rgb(255, 255, 255);
+  background-color: rgb(95, 81, 81);
+  font-size: x-large;
+  font-weight: bold;
+}
